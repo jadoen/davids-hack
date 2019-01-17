@@ -1,0 +1,237 @@
+﻿  Asus.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  DLLMain.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  AntiAim.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Autowall.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  FakeLag.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  LegitBot.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Miscellaneous.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  NameChanger.cpp
+  PredictionSystem.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  RageBot.cpp
+  Visuals.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  GameEvent.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  CreateMove.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  DispatchMessages.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  DrawModelExecute.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  EndScene.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  FrameStageNotify.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\hooks\framestagenotify.cpp(50): error C2653: 'CPlayerList': is not a class or namespace name
+c:\users\jadeon-rust\downloads\irektkit\hooks\framestagenotify.cpp(52): error C2371: 'Players': redefinition; different basic types
+  c:\users\jadeon-rust\downloads\irektkit\hooks\framestagenotify.cpp(50): note: see declaration of 'Players'
+  OverrideView.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  PaintTraverse.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  WndProc.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Compiling...
+  PlaySound.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  RecvProp.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  RenderView.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  ConVar.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Draw.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Entity.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Input.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Interfaces.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IBaseClientDLL.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IInputSystem.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IMaterialSystem.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IPhysicsSurfaceProps.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  ISurface.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IVModelRender.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IVPanel.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Math.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  NetVarManager.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Config.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Global.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(29): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(29): error C2086: 'int *E::RageBot': redefinition
+  c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): note: see declaration of 'E::RageBot'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(29): error C2061: syntax error: identifier 'CRageBot'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(33): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(33): error C2086: 'int *E::NameChanger': redefinition
+  c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): note: see declaration of 'E::NameChanger'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.cpp(33): error C2061: syntax error: identifier 'CNameChanger'
+  Offsets.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Compiling...
+  Util.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  SkinChanger.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Stiker.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  applyknife.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  report.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  thirdperson.cpp
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C2143: syntax error: missing ';' before '*'
+c:\users\jadeon-rust\downloads\irektkit\settings\global.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
